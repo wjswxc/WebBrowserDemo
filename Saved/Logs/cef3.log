@@ -1,0 +1,248 @@
+[1012/170633.682:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170633.684:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170633.741:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170633.742:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170633.883:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170633.884:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170633.886:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170633.974:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170633.975:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170633.993:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.021:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.021:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.022:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.022:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.037:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.071:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.120:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.121:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.135:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.135:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.136:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.137:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.137:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.138:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.139:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.140:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.148:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.149:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.150:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.151:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.152:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.152:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.153:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.155:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.156:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.162:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.164:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.175:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.176:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.176:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.176:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.176:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.177:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.179:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.181:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.189:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.189:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.189:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.190:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.190:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.191:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.192:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.192:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.193:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.213:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.214:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.231:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.232:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.232:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.250:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.250:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.251:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.270:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.271:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.285:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.286:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.287:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.294:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.294:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.375:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.377:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.411:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/170634.412:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.607:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170634.609:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.710:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.711:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.712:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.713:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.714:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.714:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.716:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.717:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170634.718:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170635.028:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170635.082:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170635.111:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170635.284:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170638.789:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/170638.791:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170638.821:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170638.837:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170638.860:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170643.808:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170643.831:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170643.846:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170643.864:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170648.804:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170648.894:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170653.829:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/170653.867:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171312.539:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1012/171312.539:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 125
+[1012/171312.540:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1012/171312.540:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1012/171312.540:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1012/171312.540:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1012/171312.540:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1012/171312.540:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 125
+[1012/171312.540:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1012/171312.540:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1012/171312.540:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1012/171312.540:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1012/171312.546:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171312.546:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171312.546:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171312.546:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171312.546:ERROR:rtc_peer_connection_handler.cc(2534)] Failed to create native session description. Type: "offer" SDP: "v=0\r\no=- 2101423691217993288 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=application 9 UDP/TLS/RTP/SAVPF 109\r\nc=IN IP4 0.0.0.0\r\nb=AS:30\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:wkVP\r\na=ice-pwd:AKA2vOZ+KqllrQmu34ICGs/7\r\na=ice-options:trickle\r\na=fingerprint:sha-256 50:A0:71:F2:8A:FE:D4:15:E2:4C:B5:45:BC:36:42:55:B5:25:04:98:76:53:26:B1:66:20:FD:9A:19:71:54:E3\r\na=setup:actpass\r\na=mid:0\r\na=sendrecv\r\na=msid: \r\na=rtcp-mux\r\na=rtpmap:109 google-data/90000\r\na=ssrc:2432174165 cname:RsipgbEYJvTcUUjN\r\na=ssrc:2432174165 msid:- \r\na=ssrc:2432174165 mslabel:-\r\na=ssrc:2432174165 label:\r\n"
+[1012/171312.547:ERROR:rtc_peer_connection_handler.cc(1369)] "Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute."
+[1012/171312.547:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171312.547:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171312.547:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171312.548:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171312.548:ERROR:rtc_peer_connection_handler.cc(2534)] Failed to create native session description. Type: "offer" SDP: "v=0\r\no=- 2101423691217993288 3 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 1\r\na=msid-semantic: WMS\r\nm=application 9 UDP/TLS/RTP/SAVPF 109\r\nc=IN IP4 0.0.0.0\r\nb=AS:30\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:/kwR\r\na=ice-pwd:yeSKildenVaWpdSjvXvRlgEo\r\na=ice-options:trickle\r\na=fingerprint:sha-256 50:A0:71:F2:8A:FE:D4:15:E2:4C:B5:45:BC:36:42:55:B5:25:04:98:76:53:26:B1:66:20:FD:9A:19:71:54:E3\r\na=setup:actpass\r\na=mid:1\r\na=sendrecv\r\na=msid: \r\na=rtcp-mux\r\na=rtpmap:109 google-data/90000\r\na=ssrc:300619536 cname:RsipgbEYJvTcUUjN\r\na=ssrc:300619536 msid:- \r\na=ssrc:300619536 mslabel:-\r\na=ssrc:300619536 label:\r\n"
+[1012/171312.548:ERROR:rtc_peer_connection_handler.cc(1369)] "Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute."
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1012/171319.682:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1012/171319.683:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1012/171319.683:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1012/171319.683:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1012/171319.683:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[1012/171319.683:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[1012/171319.683:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[1012/171319.683:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1012/171319.683:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1012/171319.683:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1012/171319.683:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1012/171319.683:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171319.683:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171319.683:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171319.683:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171319.683:ERROR:rtc_peer_connection_handler.cc(2534)] Failed to create native session description. Type: "offer" SDP: "v=0\r\no=- 8668772861732104645 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=application 9 UDP/TLS/RTP/SAVPF 120\r\nc=IN IP4 0.0.0.0\r\nb=AS:30\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:DR8s\r\na=ice-pwd:m+q1PpVvU5zU0VbrE1WxMVal\r\na=ice-options:trickle\r\na=fingerprint:sha-256 A5:32:52:4E:14:AC:6A:33:11:7D:A7:EF:BF:EE:EA:35:80:55:03:EF:0F:77:B2:DE:4C:4D:B7:EF:0E:B6:FB:53\r\na=setup:actpass\r\na=mid:0\r\na=sendrecv\r\na=msid: \r\na=rtcp-mux\r\na=rtpmap:120 google-data/90000\r\na=ssrc:728910231 cname:iZsNNgOQV1LWEYCJ\r\na=ssrc:728910231 msid:- \r\na=ssrc:728910231 mslabel:-\r\na=ssrc:728910231 label:\r\n"
+[1012/171319.683:ERROR:rtc_peer_connection_handler.cc(1369)] "Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute."
+[1012/171319.683:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171319.683:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171319.683:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171319.683:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1012/171319.683:ERROR:rtc_peer_connection_handler.cc(2534)] Failed to create native session description. Type: "offer" SDP: "v=0\r\no=- 8668772861732104645 3 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 1\r\na=msid-semantic: WMS\r\nm=application 9 UDP/TLS/RTP/SAVPF 120\r\nc=IN IP4 0.0.0.0\r\nb=AS:30\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:/kpk\r\na=ice-pwd:D6rJ7FkKzKFTVVtJzMsZiJ2h\r\na=ice-options:trickle\r\na=fingerprint:sha-256 A5:32:52:4E:14:AC:6A:33:11:7D:A7:EF:BF:EE:EA:35:80:55:03:EF:0F:77:B2:DE:4C:4D:B7:EF:0E:B6:FB:53\r\na=setup:actpass\r\na=mid:1\r\na=sendrecv\r\na=msid: \r\na=rtcp-mux\r\na=rtpmap:120 google-data/90000\r\na=ssrc:3601857326 cname:iZsNNgOQV1LWEYCJ\r\na=ssrc:3601857326 msid:- \r\na=ssrc:3601857326 mslabel:-\r\na=ssrc:3601857326 label:\r\n"
+[1012/171319.683:ERROR:rtc_peer_connection_handler.cc(1369)] "Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute."
+[1012/171327.713:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171327.850:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/171327.852:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171327.853:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171327.950:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.182:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.404:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.404:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.404:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.405:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.405:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.405:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.411:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.411:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.412:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.412:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.412:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.412:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.412:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/171328.413:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.416:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.416:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171328.417:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/171328.417:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.417:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.417:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171328.418:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171328.418:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.419:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.419:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/171328.420:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171328.421:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.421:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171328.422:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.424:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.424:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.424:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.426:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.427:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.428:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171328.429:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.429:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.430:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.431:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.866:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.867:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.919:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.953:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171328.954:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171328.955:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.003:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.006:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.007:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.008:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.008:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.026:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.044:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.062:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.093:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.094:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.124:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.127:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.129:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171329.129:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.445:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.567:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171329.568:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.569:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.571:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.572:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.572:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.572:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.573:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.574:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.575:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.575:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.576:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171329.576:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171330.181:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/171330.181:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171331.270:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171331.270:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171331.301:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171331.302:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171332.886:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1012/171332.887:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012/171332.895:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171332.928:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1012/171332.932:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -103
